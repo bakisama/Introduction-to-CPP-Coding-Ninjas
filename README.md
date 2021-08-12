@@ -1,4 +1,4 @@
-# Introduction-to-C++-Coding-Ninjas
+# Introduction to C++ Coding Ninjas
 
 ***TRY YOUR BEST BEFORE LOOKING AT SOLUTIONS***
 
